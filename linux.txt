@@ -18,4 +18,7 @@ cat		查看文件内容
 od		非纯文本文件
 tough		修改文件时间，创建新文件
 which		查找执行文件的位置
+whereis 	由一些特定的目录中查找文件
+locate		从每日更新的数据库中查找	updateedb	更新此数据库
+find 		从硬盘中查找
 
