@@ -1,7 +1,0 @@
-chgrp		修改文件所属用户组
-chown		修改文件拥有者
-chmod		修改文件的权限
-umask		文件默认权限
-chattr		配置文件隐藏属性
-lsattr		显示文件隐藏属性
-
